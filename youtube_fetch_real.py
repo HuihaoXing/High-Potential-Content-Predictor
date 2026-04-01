@@ -8,7 +8,7 @@ import os
 # --- 配置 ---
 # 从环境变量读取API密钥（安全做法）
 # 运行前请执行: export YOUTUBE_API_KEY='你的密钥'
-API_KEY = 'AIzaSyBWQG98cbU09h-Md9OhE90DmrKB-CwoiyI'
+API_KEY = ''
 
 SEARCH_QUERY = 'tech news'
 CSV_FILENAME = 'youtube_tech_news_real.csv'
