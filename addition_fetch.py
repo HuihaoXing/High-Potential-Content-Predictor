@@ -7,7 +7,7 @@ import os
 import sys
 
 # --- 配置 ---
-API_KEY = 'AIzaSyCuAhftEIqtTujBo71oJ5RG6C1KqmMRhwY'
+API_KEY = ''
 
 CSV_FILENAME = 'youtube_tech_news_real.csv'  # 追加到同一个文件
 TARGET_NEW_VIDEOS = 1200   # 目标新增数量（已有225，凑到1000+）
