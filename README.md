@@ -1,0 +1,1 @@
+Built an XGBoost classifier to identify high-viral-potential tech videos before publication for Tencent News editorial team. Scraped 6,000+ YouTube records; combined TF-IDF title features with TruncatedSVD (50 components) for semantic compression. AUC 0.884 / Recall 84.6% on held-out validation set.
